@@ -34,9 +34,9 @@ If you use any part of this code and pretrained weights for your own purpose, pl
   author =       {Minsang Kim, Seungjun Baek},
   booktitle = 	 {The Web Conference (WWW)},
   year = 	 {2024},
-  series = 	 {Proceedings of ACM The Web Conference},
+  series = 	 {Proceedings of The ACM Web Conference},
   month = 	 {24 May},
-  publisher =    {ACM The Web Conference (WWW)},
+  publisher =    {The ACM Web Conference (WWW)},
   pdf = 	 {},
   abstract = 	 {Learning positional information of nodes in a graph is important for link prediction tasks. We propose a representation of positional information using representative nodes called landmarks. A small number of nodes with high degree centrality are selected as landmarks, which serve as reference points for the nodes' positions. We justify this selection strategy for well-known random graph models, and derive closed-form bounds on the average path lengths involving landmarks. In a model for scale-free networks, we prove that landmarks provide asymptotically exact information on inter-node distances. We apply theoretical insights to practical networks, and propose Hierarchical Position embedding with Landmarks and Clustering (HPLC). HPLC combines landmark selection and graph clustering, where the graph is partitioned into densely connected clusters in which nodes with the highest degree are selected as landmarks. HPLC leverages the positional information of nodes based on landmarks at various levels of hierarchy such as nodes' distances to landmarks, inter-landmark distances and hierarchical grouping of clusters. Experiments show that HPLC achieves state-of-the-art performances of link prediction on various datasets in terms of HIT@K, MRR, and AUC.}
   }
