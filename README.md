@@ -1,5 +1,5 @@
 # Hierarchical Position Embedding of Graphs with Landmarks and Clustering for Link Prediction
-"Hierarchical Position Embedding of Graphs with Landmarks and Clustering for Link Prediction" <br> The Web Conference (WWW) 2024, Accepted. <br>
+"Hierarchical Position Embedding of Graphs with Landmarks and Clustering for Link Prediction" <br> The International World Wide Web Conference (WWW) 2024, Accepted. <br>
 
 
 ## Environment
