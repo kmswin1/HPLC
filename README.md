@@ -21,7 +21,7 @@ pip install -r requirements.txt
 
 
 ### Others - Pubmed, Cora, Citeseer, Facebook
-##### Please download data from this: [download](https://drive.google.com/drive/folders/1IJGklD1nvsAOfDUQDJF0by7YxtGrprgS?usp=sharing)
+##### Please pubmed download data from [download](https://drive.google.com/drive/folders/1IJGklD1nvsAOfDUQDJF0by7YxtGrprgS?usp=sharing)
 ```bash
  cd others
  python clustering.py cora or pubmed or citeseer k (eta in the paper)
