@@ -1,0 +1,7 @@
+torch
+torch-scatter
+torch-sparse
+torch-geometric
+ogb
+networkx
+dgl
