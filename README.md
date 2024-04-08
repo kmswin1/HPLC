@@ -21,13 +21,9 @@ pip install -r requirements.txt
 
 
 ### Others - Pubmed, Cora, Citeseer, Facebook
-##### Please download data using git lfs
+##### Please download data from this: [download](https://drive.google.com/drive/folders/1IJGklD1nvsAOfDUQDJF0by7YxtGrprgS?usp=sharing)
 ```bash
- git lfs install
- git lfs pull
  cd others
- tar -zxvf pubmed.tar.gz
- cp pubmed/* data
  python clustering.py cora or pubmed or citeseer k (eta in the paper)
  python clustering_fb.py facebook k (eta in the paper)
  python main.py --dataset {dataset}
