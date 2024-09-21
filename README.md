@@ -33,7 +33,7 @@ pip install -r requirements.txt
 If you use any part of this code and pretrained weights for your own purpose, please cite our [paper](https://arxiv.org/pdf/2402.08174.pdf).
 ```
 @InProceedings{
-  title = 	 Hierarchical Position Embedding of Graphs with Landmarks and Clustering for Link Prediction},
+  title = 	 {Hierarchical Position Embedding of Graphs with Landmarks and Clustering for Link Prediction},
   author =       {Minsang Kim, Seungjun Baek},
   booktitle = 	 {The ACM Web Conference (WWW)},
   year = 	 {2024},
